@@ -1,6 +1,8 @@
+# import sys
 # from sys import argv
 from os.path import exists
 # script, from_file, to_file = argv
+
 from_file = 'abc.txt'
 to_file = 'xyz.txt'
 print(f"Copying from {from_file} to {to_file}")

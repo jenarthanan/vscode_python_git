@@ -8,5 +8,3 @@ A = sorted(A)
 print(type(A))
 for i in A:
     print(i)
-
-
