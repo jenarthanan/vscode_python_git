@@ -25,7 +25,6 @@ if a == dev:
     print("{} is an odd number." .format(a))
     print("it's even")
     print(dev)
-C: \NNN\Programing\python\vscode_python_git\Practice python\02 - Odd or Even.pyC: \NNN\Programing\python\vscode_python_git\Practice python\02 - Odd or Even.pyC: \NNN\Programing\python\vscode_python_git\Practice python\02 - Odd or Even.pyC: \NNN\Programing\python\vscode_python_git\Practice python\02 - Odd or Even.pyC: \NNN\Programing\python\vscode_python_git\Practice python\02 - Odd or Even.py
 else:
 
     print("it's not even")
