@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 line 1
 line 2
 line 3
@@ -10,4 +11,18 @@ line 9
 line 10
 line 11
 line 12
+=======
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
+line 7
+line 8
+line 9
+line 10
+line 11
+line 12
+>>>>>>> e098262d7bc0c5023aab1e18d9bedf7f221006de
 line 13

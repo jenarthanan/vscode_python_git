@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Opening a file from diff path in python IDE
 split() - Hands on 
 
+=======
+Opening a file from diff path in python IDE
+split() - Hands on 
+
+>>>>>>> e098262d7bc0c5023aab1e18d9bedf7f221006de
